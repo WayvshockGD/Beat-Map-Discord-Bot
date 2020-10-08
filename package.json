@@ -1,0 +1,17 @@
+{
+  "name": "beat-map-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wayv & king dead",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "discord.js": "^12.3.1",
+    "enmap": "^5.8.0",
+    "moment-duration-format": "^2.3.2"
+  }
+}
